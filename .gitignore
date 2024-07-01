@@ -1,2 +1,4 @@
 node_modules
-git push
+git_push.bat
+run_faster.bat
+ssh
