@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "u001",
+      "name": "Người dùng A",
+      "role": "admin"
+    },
+    {
+      "id": "u002",
+      "name": "Người dùng B",
+      "role": "customer"
+    }
+  ]
+}
