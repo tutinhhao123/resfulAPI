@@ -56,6 +56,6 @@ productSchema.pre('save', function (next) {
   this.updatedAt = Date.now();
   next();
 });
-const Product = mongoose.model('about_product', productSchema);
+const Product = mongoose.model('products', productSchema);
 
 module.exports = Product;

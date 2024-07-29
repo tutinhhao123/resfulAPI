@@ -1,0 +1,576 @@
+[{
+  "_id": {
+    "$oid": "66a383013c206c08b513146c"
+  },
+  "name": "Demon Slayer: Kimetsu no Yaiba",
+  "description": "Join Tanjiro Kamado as he battles demons to save his sister Nezuko.",
+  "category": "Manga",
+  "price": 14.99,
+  "stock": 120,
+  "images": [
+    "0UgjVJ2M9ANhYhoUS7.webp",
+    "demon_slayer_1.webp"
+  ],
+  "director": "Koyoharu Gotouge",
+  "release_year": 2016,
+  "genres": [
+    "Action",
+    "Dark Fantasy",
+    "Adventure"
+  ],
+  "img": "demon-slayer-kimetsu-no-yaiba.gif",
+  "createdAt": "2023-07-25T14:48:00.000Z",
+  "updatedAt": "2023-07-25T14:48:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b513146d"
+  },
+  "name": "Jujutsu Kaisen: Infinite Void",
+  "description": "Follow Yuji Itadori's journey as he battles curses with powerful Jujutsu sorcerers.",
+  "category": "Manga",
+  "price": 13.99,
+  "stock": 140,
+  "images": [
+    "infinite-void-gojo.gif",
+    "giphy.webp"
+  ],
+  "director": "Gege Akutami",
+  "release_year": 2018,
+  "genres": [
+    "Action",
+    "Supernatural",
+    "Dark Fantasy"
+  ],
+  "img": "infinite-void-gojo.gif",
+  "createdAt": "2023-07-25T14:49:00.000Z",
+  "updatedAt": "2023-07-25T14:49:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b513146e"
+  },
+  "name": "My Hero Academia: Hero's Journey",
+  "description": "Experience the adventures of Izuku Midoriya in a world where heroes are born with superpowers.",
+  "category": "Manga",
+  "price": 15.99,
+  "stock": 160,
+  "images": [
+    "hero.webp",
+    "0UgjVJ2M9ANhYhoUS7.webp"
+  ],
+  "director": "Kōhei Horikoshi",
+  "release_year": 2014,
+  "genres": [
+    "Action",
+    "Superhero",
+    "Adventure"
+  ],
+  "img": "hero.webp",
+  "createdAt": "2023-07-25T14:50:00.000Z",
+  "updatedAt": "2023-07-25T14:50:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b513146f"
+  },
+  "name": "Kimi No Na Wa: A Beautiful Encounter",
+  "description": "A touching story of two teenagers who mysteriously start switching bodies.",
+  "category": "Manga",
+  "price": 16.99,
+  "stock": 180,
+  "images": [
+    "Kimi No Na Wa Wallpaper Collection.jpg",
+    "kimesu_1.jpg"
+  ],
+  "director": "Makoto Shinkai",
+  "release_year": 2016,
+  "genres": [
+    "Romance",
+    "Drama",
+    "Fantasy"
+  ],
+  "img": "Kimi No Na Wa Wallpaper Collection.jpg",
+  "createdAt": "2023-07-25T14:51:00.000Z",
+  "updatedAt": "2023-07-25T14:51:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131470"
+  },
+  "name": "Attack on Titan: Humanity's Last Stand",
+  "description": "Eren Yeager and his friends fight against the titans to save humanity.",
+  "category": "Manga",
+  "price": 14.99,
+  "stock": 130,
+  "images": [
+    "0YqqS9Nize8tKxfSWV.webp",
+    "QUKqSLmE7vmZP2PkZk.webp"
+  ],
+  "director": "Hajime Isayama",
+  "release_year": 2009,
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "img": "0YqqS9Nize8tKxfSWV.webp",
+  "createdAt": "2023-07-25T14:52:00.000Z",
+  "updatedAt": "2023-07-25T14:52:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131471"
+  },
+  "name": "Tokyo Ghoul: Unmasked",
+  "description": "Dive into the dark world of ghouls with Ken Kaneki's intense struggle for identity.",
+  "category": "Manga",
+  "price": 12.99,
+  "stock": 110,
+  "images": [
+    "giphy (1).webp",
+    "giphy (2).webp"
+  ],
+  "director": "Sui Ishida",
+  "release_year": 2011,
+  "genres": [
+    "Horror",
+    "Supernatural",
+    "Action"
+  ],
+  "img": "giphy (1).webp",
+  "createdAt": "2023-07-25T14:53:00.000Z",
+  "updatedAt": "2023-07-25T14:53:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131472"
+  },
+  "name": "Fullmetal Alchemist: Philosopher's Stone",
+  "description": "Edward and Alphonse Elric's quest for the Philosopher's Stone to restore their bodies.",
+  "category": "Manga",
+  "price": 14.49,
+  "stock": 160,
+  "images": [
+    "0UgjVJ2M9ANhYhoUS7.webp",
+    "demon_slayer_1.webp"
+  ],
+  "director": "Hiromu Arakawa",
+  "release_year": 2001,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Drama"
+  ],
+  "img": "0UgjVJ2M9ANhYhoUS7.webp",
+  "createdAt": "2023-07-25T14:54:00.000Z",
+  "updatedAt": "2023-07-25T14:54:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131473"
+  },
+  "name": "One Punch Man: Hero for Fun",
+  "description": "Saitama, the hero who can defeat any opponent with a single punch, seeks excitement.",
+  "category": "Manga",
+  "price": 11.99,
+  "stock": 170,
+  "images": [
+    "dyjrpqaUVqCELGuQVr.webp",
+    "QUKqSLmE7vmZP2PkZk (1).webp"
+  ],
+  "director": "ONE",
+  "release_year": 2009,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Superhero"
+  ],
+  "img": "dyjrpqaUVqCELGuQVr.webp",
+  "createdAt": "2023-07-25T14:55:00.000Z",
+  "updatedAt": "2023-07-25T14:55:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131474"
+  },
+  "name": "Sword Art Online: Virtual Reality",
+  "description": "Experience the thrills of virtual reality with Kirito and Asuna in a deadly game.",
+  "category": "Manga",
+  "price": 13.49,
+  "stock": 140,
+  "images": [
+    "Kimi No Na Wa Wallpaper Collection.jpg",
+    "wallhaven-95y77d.png"
+  ],
+  "director": "Rei Kawahara",
+  "release_year": 2009,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "img": "wallhaven-95y77d.png",
+  "createdAt": "2023-07-25T14:56:00.000Z",
+  "updatedAt": "2023-07-25T14:56:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131475"
+  },
+  "name": "Death Note: The Shinigami's Notebook",
+  "description": "Light Yagami discovers a notebook that allows him to kill anyone whose name he writes in it.",
+  "category": "Manga",
+  "price": 12.49,
+  "stock": 150,
+  "images": [
+    "giphy.webp",
+    "wallhaven-jxl31y.png"
+  ],
+  "director": "Tsugumi Ohba",
+  "release_year": 2003,
+  "genres": [
+    "Mystery",
+    "Thriller",
+    "Supernatural"
+  ],
+  "img": "giphy.webp",
+  "createdAt": "2023-07-25T14:57:00.000Z",
+  "updatedAt": "2023-07-25T14:57:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131476"
+  },
+  "name": "Naruto Shippuden: The Next Generation",
+  "description": "The adventures of Naruto and his friends continue in the sequel series.",
+  "category": "Manga",
+  "price": 15.49,
+  "stock": 160,
+  "images": [
+    "suzume_ful.jpg",
+    "wallhaven-yjr3kk.png"
+  ],
+  "director": "Masashi Kishimoto",
+  "release_year": 2007,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "img": "suzume_ful.jpg",
+  "createdAt": "2023-07-25T14:58:00.000Z",
+  "updatedAt": "2023-07-25T14:58:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131477"
+  },
+  "name": "Black Clover: Magic Wars",
+  "description": "Asta and Yuno strive to become the Wizard King in a world filled with magic.",
+  "category": "Manga",
+  "price": 11.49,
+  "stock": 140,
+  "images": [
+    "giphy (2).webp",
+    "wallhaven-yjr3lk.png"
+  ],
+  "director": "Yūki Tabata",
+  "release_year": 2015,
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Adventure"
+  ],
+  "img": "giphy (2).webp",
+  "createdAt": "2023-07-25T14:59:00.000Z",
+  "updatedAt": "2023-07-25T14:59:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131478"
+  },
+  "name": "The Promised Neverland: Escape Plan",
+  "description": "Emma, Norman, and Ray must escape from an orphanage before they are harvested.",
+  "category": "Manga",
+  "price": 12.99,
+  "stock": 130,
+  "images": [
+    "wallhaven-yjr3lk.png",
+    "wallhaven-3kedrd.jpg"
+  ],
+  "director": "Kaiu Shirai",
+  "release_year": 2016,
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "img": "wallhaven-3kedrd.jpg",
+  "createdAt": "2023-07-25T15:00:00.000Z",
+  "updatedAt": "2023-07-25T15:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131479"
+  },
+  "name": "Mob Psycho 100: Unleashed",
+  "description": "Shigeo Kageyama's psychic powers are unleashed as he deals with supernatural phenomena.",
+  "category": "Manga",
+  "price": 13.99,
+  "stock": 120,
+  "images": [
+    "demon_slayer_1.webp",
+    "wallhaven-yjr3kk.png"
+  ],
+  "director": "ONE",
+  "release_year": 2012,
+  "genres": [
+    "Action",
+    "Supernatural",
+    "Comedy"
+  ],
+  "img": "demon_slayer_1.webp",
+  "createdAt": "2023-07-25T15:01:00.000Z",
+  "updatedAt": "2023-07-25T15:01:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b513147a"
+  },
+  "name": "Toradora!: Love and Friendship",
+  "description": "The heartwarming story of Taiga and Ryuuji's complicated yet endearing relationship.",
+  "category": "Manga",
+  "price": 11.99,
+  "stock": 150,
+  "images": [
+    "Kimi No Na Wa Wallpaper Collection.jpg",
+    "giphy (1).webp"
+  ],
+  "director": "Yuyuko Tokemiya",
+  "release_year": 2006,
+  "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "img": "Kimi No Na Wa Wallpaper Collection.jpg",
+  "createdAt": "2023-07-25T15:02:00.000Z",
+  "updatedAt": "2023-07-25T15:02:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b513147b"
+  },
+  "name": "Beastars: Carnivore's Dilemma",
+  "description": "In a world where animals coexist, Legoshi navigates his complex feelings towards a rabbit.",
+  "category": "Manga",
+  "price": 13.49,
+  "stock": 130,
+  "images": [
+    "wallhaven-95y77d.png",
+    "giphy.webp"
+  ],
+  "director": "Paru Itagaki",
+  "release_year": 2008,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "img": "wallhaven-95y77d.png",
+  "createdAt": "2023-07-25T15:03:00.000Z",
+  "updatedAt": "2023-07-25T15:03:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b513147c"
+  },
+  "name": "Hellsing: The Undead War",
+  "description": "Join Alucard in his quest to defeat supernatural enemies and protect humanity.",
+  "category": "Manga",
+  "price": 12.49,
+  "stock": 140,
+  "images": [
+    "QUKqSLmE7vmZP2PkZk (1).webp",
+    "QUKqSLmE7vmZP2PkZk.webp"
+  ],
+  "director": "Kouta Hirano",
+  "release_year": 1997,
+  "genres": [
+    "Action",
+    "Horror",
+    "Supernatural"
+  ],
+  "img": "QUKqSLmE7vmZP2PkZk (1).webp",
+  "createdAt": "2023-07-25T15:04:00.000Z",
+  "updatedAt": "2023-07-25T15:04:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b513147d"
+  },
+  "name": "Gintama: The Pirate King",
+  "description": "Follow Gintoki Sakata's misadventures in a world where samurai fight against alien invaders.",
+  "category": "Manga",
+  "price": 11.99,
+  "stock": 150,
+  "images": [
+    "wallhaven-yjr3lk.png",
+    "0YqqS9Nize8tKxfSWV.webp"
+  ],
+  "director": "Hideaki Sorachi",
+  "release_year": 2003,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "img": "0YqqS9Nize8tKxfSWV.webp",
+  "createdAt": "2023-07-25T15:05:00.000Z",
+  "updatedAt": "2023-07-25T15:05:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b513147e"
+  },
+  "name": "Violet Evergarden: Memories",
+  "description": "Violet's journey to understand human emotions and find her purpose after the war.",
+  "category": "Manga",
+  "price": 15.99,
+  "stock": 120,
+  "images": [
+    "suzume_ful.jpg",
+    "wallhaven-3kedrd.jpg"
+  ],
+  "director": "Kana Akatsuki",
+  "release_year": 2015,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "img": "suzume_ful.jpg",
+  "createdAt": "2023-07-25T15:06:00.000Z",
+  "updatedAt": "2023-07-25T15:06:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b513147f"
+  },
+  "name": "Dr. Stone: The Stone Age",
+  "description": "Senku Ishigami's quest to rebuild civilization after humanity is petrified.",
+  "category": "Manga",
+  "price": 13.99,
+  "stock": 140,
+  "images": [
+    "giphy (2).webp",
+    "wallhaven-jxl31y.png"
+  ],
+  "director": "Riichiro Inagaki",
+  "release_year": 2017,
+  "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Fantasy"
+  ],
+  "img": "wallhaven-jxl31y.png",
+  "createdAt": "2023-07-25T15:07:00.000Z",
+  "updatedAt": "2023-07-25T15:07:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131480"
+  },
+  "name": "Dragon Ball Super: Universe Battles",
+  "description": "The Saiyans face off against the strongest fighters from across the multiverse.",
+  "category": "Manga",
+  "price": 14.49,
+  "stock": 150,
+  "images": [
+    "demon_slayer_1.webp",
+    "wallhaven-yjr3kk.png"
+  ],
+  "director": "Akira Toriyama",
+  "release_year": 2015,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "img": "wallhaven-yjr3kk.png",
+  "createdAt": "2023-07-25T15:08:00.000Z",
+  "updatedAt": "2023-07-25T15:08:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131481"
+  },
+  "name": "Noragami: Stray God",
+  "description": "Yato, a lesser-known god, strives to gain followers and build a shrine with his partner Hiyori.",
+  "category": "Manga",
+  "price": 12.99,
+  "stock": 130,
+  "images": [
+    "0UgjVJ2M9ANhYhoUS7.webp",
+    "QUKqSLmE7vmZP2PkZk.webp"
+  ],
+  "director": "Adachitoka",
+  "release_year": 2010,
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "img": "QUKqSLmE7vmZP2PkZk.webp",
+  "createdAt": "2023-07-25T15:09:00.000Z",
+  "updatedAt": "2023-07-25T15:09:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131482"
+  },
+  "name": "Bleach: Soul Society",
+  "description": "Ichigo Kurosaki's adventures continue as he delves deeper into the world of Soul Reapers.",
+  "category": "Manga",
+  "price": 14.99,
+  "stock": 120,
+  "images": [
+    "giphy (1).webp",
+    "wallhaven-95y77d.png"
+  ],
+  "director": "Tite Kubo",
+  "release_year": 2001,
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Adventure"
+  ],
+  "img": "wallhaven-95y77d.png",
+  "createdAt": "2023-07-25T15:10:00.000Z",
+  "updatedAt": "2023-07-25T15:10:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a383013c206c08b5131483"
+  },
+  "name": "Re:Zero - Starting Life in Another World",
+  "description": "Subaru Natsuki is transported to another world where he discovers he has the ability to return from death.",
+  "category": "Manga",
+  "price": 13.49,
+  "stock": 140,
+  "images": [
+    "suzume_ful.jpg",
+    "wallhaven-3kedrd.jpg"
+  ],
+  "director": "Tappei Nagatsuki",
+  "release_year": 2012,
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Adventure"
+  ],
+  "img": "wallhaven-3kedrd.jpg",
+  "createdAt": "2023-07-25T15:11:00.000Z",
+  "updatedAt": "2023-07-25T15:11:00.000Z"
+}]

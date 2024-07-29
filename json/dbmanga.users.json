@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "66a380863c206c08b5131467"
+  },
+  "username": "one_piece_luffy",
+  "email": "luffy@onepiece.com",
+  "passwordHash": "e99a18c428cb38d5f260853678922e03",
+  "name": {
+    "first": "Monkey",
+    "last": "D. Luffy"
+  },
+  "address": {
+    "street": "123 Grand Line",
+    "city": "East Blue",
+    "state": "OP",
+    "zip": "12345",
+    "country": "Japan"
+  },
+  "phone": "+81345678901",
+  "createdAt": "2023-07-25T14:48:00.000Z",
+  "updatedAt": "2023-07-25T14:48:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a380863c206c08b5131468"
+  },
+  "username": "naruto_uzumaki",
+  "email": "naruto@konohagakure.com",
+  "passwordHash": "5f4dcc3b5aa765d61d8327deb882cf99",
+  "name": {
+    "first": "Naruto",
+    "last": "Uzumaki"
+  },
+  "address": {
+    "street": "456 Hokage St",
+    "city": "Konoha",
+    "state": "HG",
+    "zip": "67890",
+    "country": "Japan"
+  },
+  "phone": "+81345678902",
+  "createdAt": "2023-07-25T14:49:00.000Z",
+  "updatedAt": "2023-07-25T14:49:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "66a380863c206c08b5131469"
+  },
+  "username": "bleach_ichigo",
+  "email": "ichigo@karakuracity.com",
+  "passwordHash": "d41d8cd98f00b204e9800998ecf8427e",
+  "name": {
+    "first": "Ichigo",
+    "last": "Kurosaki"
+  },
+  "address": {
+    "street": "789 Zangetsu Blvd",
+    "city": "Karakura",
+    "state": "KT",
+    "zip": "54321",
+    "country": "Japan"
+  },
+  "phone": "+81345678903",
+  "createdAt": "2023-07-25T14:50:00.000Z",
+  "updatedAt": "2023-07-25T14:50:00.000Z"
+}]
